@@ -1,0 +1,46 @@
+    img {
+        display: block;
+        margin: auto;
+    }
+    
+    h2 {
+        color: rgb(51, 1, 51);
+        ;
+        font-size: 30px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    
+    .smaller-image {
+        width: 80px;
+    }
+    
+    .thick-purple-border {
+        border-color: rgb(53, 6, 43);
+        border-width: 50px;
+        border-style: solid;
+    }
+    
+    td,
+    th {
+        border: 1px solid rgb(53, 6, 43);
+        padding: 0.5rem;
+    }
+    
+    .silver-background {
+        background-color: rgb(139, 138, 139);
+    }
+    
+    body {
+        background-color: rgb(236, 213, 236);
+    }
+    
+    body {
+        background: beige;
+    }
+    
+    .box {
+        border-style: solid;
+        border-color: black;
+        border-width: 5px;
+        text-align: center;
+    }
